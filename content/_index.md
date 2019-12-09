@@ -89,7 +89,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 ## Signataires
 
 ### Actrices et acteurs du numérique
-
+`
 * [Marion Agé](https://github.com/K-mos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Damien Alexandre](https://twitter.com/damienalexandre), développeur
 * Romy Alula, développeuse, salariée
@@ -98,6 +98,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Thibaut Arnoud](https://twitter.com/arnoudthibaut), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Jordan Aubert, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Morgan Auchede](https://twitter.com/mauchede)
+* [Brandon Sueur](https://brandonsueur.fr), Développeur Web
 * Arthur d'Azémar, Développeur
 * Arnaud Bailly, Développeur
 * [Dylan Ballandras](https://www.dylan-ballandras.fr/), développeur, salarié
